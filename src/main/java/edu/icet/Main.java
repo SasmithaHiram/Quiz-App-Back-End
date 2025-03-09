@@ -1,4 +1,4 @@
-package edu.icet.ecom;
+package edu.icet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
