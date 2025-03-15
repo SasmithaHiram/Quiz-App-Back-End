@@ -8,4 +8,5 @@ public class Exam {
     private String timetable;
     private String passingScore;
     private Integer questionaCount;
+
 }

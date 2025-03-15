@@ -13,4 +13,5 @@ public class Answer {
     private Integer questionId;
     private String answer;
     private Boolean isCorrect;
+
 }

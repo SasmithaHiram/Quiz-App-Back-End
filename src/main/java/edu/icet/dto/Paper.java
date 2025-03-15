@@ -11,4 +11,5 @@ public class Paper {
     private Integer id;
     private Integer userId;
     private Integer examId;
+
 }

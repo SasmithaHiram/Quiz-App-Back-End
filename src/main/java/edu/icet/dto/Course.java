@@ -17,4 +17,5 @@ public class Course {
     private String subject;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
+
 }
