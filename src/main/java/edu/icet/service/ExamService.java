@@ -14,7 +14,7 @@ public interface ExamService {
 
     void deleteExamByCourseId(Integer integer);
 
-    Exam getExamByCourseId(Integer integer);
+    Exam getExamByCourseId(Integer id);
 
     List<Exam> getAll();
 
