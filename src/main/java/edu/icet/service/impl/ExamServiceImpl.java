@@ -26,6 +26,7 @@ public class ExamServiceImpl implements ExamService {
 
     @Override
     public void updateExam(Exam exam) {
+        this.createExam(exam);
 
     }
 
